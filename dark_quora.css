@@ -1,0 +1,32 @@
+.feed_card_on
+{
+    background-color:#0d1219 !important;   
+}
+
+.feed_card_on,.feed_card_on .Bundle .singleton_bundle .feed_item,.feed_card_on .layout_3col_center .icon_action_bar.sticky,.comments_preview_toggle
+{
+    background: #0d1219 !important;
+    color:white !important;
+}
+
+body
+{
+    color: white !important;
+}
+
+.threaded_comments.full_width_comments,.multifeed_bundle_story,.SiteHeader.new_header
+{
+    color: white !important;
+    background: #0d1219 !important;
+}
+Bundle
+{
+    color: white !important;
+    background: #0d1219 !important;
+
+}
+.ui_qtext_rendered_qtext
+{
+    color: white !important;
+    background: #0d1219 !important;
+}

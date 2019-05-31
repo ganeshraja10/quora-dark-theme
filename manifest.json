@@ -1,0 +1,10 @@
+{
+  "name": "Quora Dark Theme",
+  "description": "Make the Quora page dark",
+  "version": "2.0",
+  "content_scripts": [{
+    "css": ["dark_quora.css"],
+    "matches": ["https://www.quora.com/*"]
+  }],
+  "manifest_version": 2
+}
